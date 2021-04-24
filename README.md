@@ -1,16 +1,21 @@
-# learngetx
+##### App Ini Digunakan Untuk Belajar GetX 
 
-A new Flutter project.
 
-## Getting Started
+Package List :
 
-This project is a starting point for a Flutter application.
+- Dio
+- GetX
+- SharedPreferences
+- BottomNav
 
-A few resources to get you started if this is your first Flutter project:
+```Change Log
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+First Commit :
+- Penempatan GetX + UI Design (30%)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Next Update ( 25 April ) :
+- TBA
+
+```
+
+[Follow My Instagram :D](https://instagram.com/io.floxy)
