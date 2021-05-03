@@ -23,6 +23,7 @@ class _LoginState extends State<Login> {
             height: MediaQuery.of(context).size.height,
             child: Center(
               child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   SizedBox(
                     height: 50,

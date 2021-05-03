@@ -12,10 +12,8 @@ Package List :
 
 First Commit :
 - Penempatan GetX + UI Design (30%)
+- Fixed All Responsive + Added Dark Mode
 
-Next Update ( 25 April ) :
-- TBA
 
 ```
-
 [Follow My Instagram :D](https://instagram.com/io.floxy)

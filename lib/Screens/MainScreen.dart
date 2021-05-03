@@ -20,9 +20,17 @@ class _MyScreenState extends State<MyScreen> {
     SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.top]);
   }
 
-  int _state = 0;
+  int _state = 2;
 
   void _animateButton() {}
+
+  void _click() {
+    if (_state != 1) {
+      return Get.changeTheme(ThemeData.dark());
+    } else if (_state != 2) {
+      return Get.changeTheme(ThemeData.light());
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -66,12 +74,9 @@ class _MyScreenState extends State<MyScreen> {
                         style:
                             ElevatedButton.styleFrom(primary: Colors.red[400]),
                         onPressed: () {
-                          setState(() {
-                            _state = 1;
-                          });
+                          setState(() {});
                           Timer(Duration(milliseconds: 3000), () {
                             setState(() {
-                              _state = 0;
                               Get.to(Login());
                             });
                           });
