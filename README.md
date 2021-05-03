@@ -18,11 +18,8 @@ First Commit :
 ```
 [Follow My Instagram :D](https://instagram.com/io.floxy)
 
+![alt text](https://raw.githubusercontent.com/floxydio/getx-belajar/master/flutter_03.png)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/floxydio/getx-belajar/master/flutter_03.png
-" width="350" title="hover text">
-  <img src="https://raw.githubusercontent.com/floxydio/getx-belajar/master/flutter_02.png
-" width="350" title="hover text">
-  
-</p>
+![alt text](https://raw.githubusercontent.com/floxydio/getx-belajar/master/flutter_02.png)
+
+
