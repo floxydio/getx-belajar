@@ -17,3 +17,5 @@ First Commit :
 
 ```
 [Follow My Instagram :D](https://instagram.com/io.floxy)
+
+![alt text](https://raw.githubusercontent.com/floxydio/getx-belajar/master/flutter_02.png)
